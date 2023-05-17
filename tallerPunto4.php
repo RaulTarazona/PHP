@@ -26,6 +26,10 @@
         <input type="submit" value="enviar">
     </form>
     
+    <br>
+    <form action="tallerPunto5.php">
+    <input type="submit" value="Punto 5">
+    </form>
 </body>
 </html>
 
